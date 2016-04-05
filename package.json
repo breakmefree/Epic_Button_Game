@@ -1,0 +1,9 @@
+{
+  "name": "new_proj_f",
+  "description": "Sample Express Application to test out using Package.json to install dependencies",
+  "dependencies": {
+    "ejs": "1.0.0",
+    "express": "^4.10.8",
+    "socket.io": "^1.4.5"
+  }
+}
